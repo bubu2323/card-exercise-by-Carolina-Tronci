@@ -1,0 +1,115 @@
+/**************
+RESET STYLESHEET
+
+**************/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  background-color: hsl(217, 54%, 11%);
+  font-family: "Outfit", sans-serif;
+  font-size: 16px;
+}
+body {
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+}
+
+/**********
+containers
+**********/
+.container {
+  background-color: hsl(216, 50%, 16%);
+  margin: 5% auto;
+  width: 450px;
+  border-radius: 5%;
+}
+section {
+  margin: 3% 9%;
+  text-align: left;
+}
+.numbers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 7.5%;
+}
+
+/****************
+imgages & icons
+
+*****************/
+.cube {
+  width: 80%;
+  border-radius: 3%;
+  margin-top: 7.5%;
+}
+.avatar {
+  border: 1px solid white;
+  border-radius: 50%;
+  /*float: left;*/
+  width: 31%;
+  margin-top: 4%;
+  margin-left: -20%;
+}
+.icon {
+  margin-right: 10px;
+}
+/*********
+Styling
+**********/
+h1 {
+  color: hsl(0, 0%, 100%);
+  font-size: 1.3rem;
+  margin-top: 0.5rem;
+  margin-bottom: 3%;
+}
+.first-p {
+  color: hsl(215, 51%, 70%);
+  line-height: 1.4rem;
+  font-size: 1rem;
+}
+.eth {
+  color: hsl(178, 100%, 50%);
+  display: flex;
+  align-items: center;
+  margin-right: 20%;
+}
+.days-left {
+  color: hsl(215, 51%, 70%);
+  display: flex;
+  align-items: center;
+}
+.creation {
+  margin-top: 10%;
+  margin-left: -47%;
+}
+/*******hr*******/
+hr {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border: 0;
+  height: 0;
+  margin: 5% auto;
+  width: 90%;
+}
+/*******
+footer
+*******/
+
+footer {
+  display: flex;
+  padding-bottom: 5%;
+}
+
+/***different colors text***/
+.lightblue {
+  color: hsl(215, 51%, 70%);
+}
+.white {
+  color: white;
+}
