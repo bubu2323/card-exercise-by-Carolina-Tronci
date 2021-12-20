@@ -6,7 +6,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,14 +23,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
 
-C:\Users\Bubu\Desktop\bootcamp web dev\Progetti\Card exercise\project\screenshot
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://bubu2323.github.io/card-exercise-by-Carolina-Tronci/]
 
 ## My process
