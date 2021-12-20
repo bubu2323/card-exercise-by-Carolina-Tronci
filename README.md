@@ -32,7 +32,7 @@ C:\Users\Bubu\Desktop\bootcamp web dev\Progetti\Card exercise\project\screenshot
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://bubu2323.github.io/card-exercise-by-Carolina-Tronci/](Live site)
+- Live Site URL: [https://bubu2323.github.io/card-exercise-by-Carolina-Tronci/]
 
 ## My process
 
